@@ -1,0 +1,14 @@
+Supply Nodes:
+A: 20
+B: 30
+C: 25
+
+Demand Nodes:
+X: 10
+Y: 35
+Z: 30
+
+Cost Matrix:
+8 6 10
+9 12 13
+14 9 16
